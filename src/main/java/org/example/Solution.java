@@ -7,7 +7,7 @@ public class Solution {
         ConvertingToString convertingToString = new ConvertingToString();
         ConvertingToArray convertingToArray = new ConvertingToArray();
 
-        int x = 2;
-        System.out.println(convertingToArray.isPalindrome(x));
+        int x = 100010001;
+        System.out.println(withoutArrayAndReverse.isPalindrome(x));
     }
 }
