@@ -6,8 +6,9 @@ public class Solution {
         WithoutArrayAndReverse withoutArrayAndReverse = new WithoutArrayAndReverse();
         ConvertingToString convertingToString = new ConvertingToString();
         ConvertingToArray convertingToArray = new ConvertingToArray();
+        WithoutListAndString withoutListAndString = new WithoutListAndString();
 
-        int x = 10010001;
-        System.out.println(withoutArrayAndReverse.isPalindrome(x));
+        int x = 100020001;
+        System.out.println(withoutListAndString.isPalindrome(x));
     }
 }
