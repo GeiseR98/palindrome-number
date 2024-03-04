@@ -1,7 +1,7 @@
 package org.example;
 
 /**
- * не работает с числами в которых есть 0
+ * самое долгое решение
  */
 public class WithoutArrayAndReverse {
 
@@ -25,8 +25,13 @@ public class WithoutArrayAndReverse {
             if (xNext == 0) {
                 return true;
             }
-            if ((lengthBefore - length) > 2) {
-                return false;
+            int numberOfZero = lengthBefore - length;
+            if (numberOfZero > 2) {
+                if (xNext % Math.pow(10, numberOfZero - 2) != 0) {
+                    return false;
+                }
+                xNext /= Math.pow(10, numberOfZero - 2);
+                length = String.valueOf(xNext).length();
             }
         }
         return true;

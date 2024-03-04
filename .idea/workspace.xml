@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbed157c-da37-4bcf-9ff0-a7044be43fee" name="Changes" comment="feat: самое очевидное решение">
+    <list default="true" id="fbed157c-da37-4bcf-9ff0-a7044be43fee" name="Changes" comment="feat: тупиковое">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/WithoutArrayAndReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/WithoutArrayAndReverse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,19 +32,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/geiser98/dev/palindrome_number&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/home/geiser98/dev/palindrome_number/src/main/java/org/example/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Solution.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/geiser98/dev/palindrome_number",
+    "onboarding.tips.debug.path": "/home/geiser98/dev/palindrome_number/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -94,7 +93,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709583119290</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="feat: тупиковое">
+      <option name="closed" value="true" />
+      <created>1709585452007</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709585452007</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,6 +118,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: неверное решение - тоже работа" />
     <MESSAGE value="feat: самое очевидное решение" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: самое очевидное решение" />
+    <MESSAGE value="feat: тупиковое" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: тупиковое" />
   </component>
 </project>
