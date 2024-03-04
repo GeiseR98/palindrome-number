@@ -10,4 +10,5 @@ public class ConvertingToString {
         StringBuilder xRevers = new StringBuilder(xString).reverse();
         return xString.contentEquals(xRevers);
     }
+
 }

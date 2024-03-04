@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbed157c-da37-4bcf-9ff0-a7044be43fee" name="Changes" comment="feat: неверное решение - тоже работа">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ConvertingToString.java" afterDir="false" />
+    <list default="true" id="fbed157c-da37-4bcf-9ff0-a7044be43fee" name="Changes" comment="feat: самое очевидное решение">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ConvertingToArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ConvertingToString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ConvertingToString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,11 +79,31 @@
       <option name="project" value="LOCAL" />
       <updated>1709576756521</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat: самое очевидное решение">
+      <option name="closed" value="true" />
+      <created>1709578094482</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709578094482</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: неверное решение - тоже работа" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: неверное решение - тоже работа" />
+    <MESSAGE value="feat: самое очевидное решение" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: самое очевидное решение" />
   </component>
 </project>
