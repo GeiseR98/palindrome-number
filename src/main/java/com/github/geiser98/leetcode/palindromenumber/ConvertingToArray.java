@@ -1,4 +1,4 @@
-package org.example;
+package com.github.geiser98.leetcode.palindromenumber;
 
 import java.util.ArrayList;
 import java.util.List;

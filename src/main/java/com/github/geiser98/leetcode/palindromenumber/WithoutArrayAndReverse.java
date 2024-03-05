@@ -1,4 +1,4 @@
-package org.example;
+package com.github.geiser98.leetcode.palindromenumber;
 
 /**
  * самое долгое решение
@@ -6,11 +6,11 @@ package org.example;
 public class WithoutArrayAndReverse {
 
     public boolean isPalindrome(int x) {
-        int xFirst = 0;
-        int xPast = 0;
+        int xFirst;
+        int xPast;
         int xNext = x;
         int length = String.valueOf(xNext).length();
-        int lengthBefore = length;
+        int lengthBefore;
         while (length > 1) {
 
             xFirst = (int) (xNext / Math.pow(10, length - 1));

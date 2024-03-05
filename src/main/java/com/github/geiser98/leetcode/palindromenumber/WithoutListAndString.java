@@ -1,4 +1,4 @@
-package org.example;
+package com.github.geiser98.leetcode.palindromenumber;
 
 public class WithoutListAndString {
     public boolean isPalindrome(int x) {
@@ -16,9 +16,6 @@ public class WithoutListAndString {
             revers = revers * 10 + remains;
             number /= 10;
         }
-        if (revers == x) {
-            return true;
-        }
-        return false;
+        return revers == x;
     }
 }

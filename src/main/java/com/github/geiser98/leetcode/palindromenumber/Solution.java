@@ -1,4 +1,4 @@
-package org.example;
+package com.github.geiser98.leetcode.palindromenumber;
 
 public class Solution {
     public static void main(String[] args) {
